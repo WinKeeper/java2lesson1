@@ -20,38 +20,5 @@ public class Wall extends Obstacle {
         currentCompetitor = competitor;
     }
 
-//    public void jumpOverTheWall(Competitor competitor) {
-//        if (competitor.isRunning() == true) {
-//            competitor.jump();
-//            currentCompetitor = competitor;
-//        }
-//    }
-//
-//    public void backOntrack(Competitor competitor) {
-//        if (competitor.isRunning() == true) {
-//            competitor.jump();
-//            currentCompetitor = competitor;
-//        }
-//    }
-//
-//    public void jumpWall() {
-//
-//    }
-//
-//    public void setOnTrack(Competitor competitor) {
-//        if (!competitor.isRunning()) {
-//            competitor.run();
-//            System.out.println(competitor.getName() + " побежал по треку.");
-//            currentCompetitor = competitor;
-//        }
-//    }
-//
-//    public void action(Competitor competitor) {
-//        if (!currentCompetitor.isRunning()) {
-//            currentCompetitor.run();
-//        } if (currentCompetitor.isRunning() == true) {
-//            currentCompetitor.jump();
-//        }
-//    }
 
 }

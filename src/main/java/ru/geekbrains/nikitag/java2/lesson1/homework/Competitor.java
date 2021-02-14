@@ -7,5 +7,4 @@ public interface Competitor {
     String getName();
     int getMaxHeight();
     int getMaxDistance();
-
 }
