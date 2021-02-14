@@ -45,5 +45,6 @@ public class Robot implements Competitor {
     public int getMaxDistance() {
         return maxDistance;
     }
+
 }
 

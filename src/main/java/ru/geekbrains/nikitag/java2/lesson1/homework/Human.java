@@ -45,5 +45,4 @@ public class Human implements Competitor {
     public int getMaxDistance() {
         return maxDistance;
     }
-
 }

@@ -19,4 +19,5 @@ public class Track extends Obstacle {
         currentCompetitor = competitor;
     }
 
+
 }

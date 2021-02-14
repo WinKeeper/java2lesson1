@@ -47,4 +47,5 @@ public class Cat implements Competitor {
     public int getMaxDistance() {
         return maxDistance;
     }
+
 }

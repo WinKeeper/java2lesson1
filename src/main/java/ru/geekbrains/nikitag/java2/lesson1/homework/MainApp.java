@@ -64,8 +64,5 @@ public class MainApp {
                 obstacles[i].run(competitors[j]);
             }
         }
-
-
-
     }
 }
